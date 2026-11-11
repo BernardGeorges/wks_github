@@ -1,2 +1,2 @@
-"Ontem eu fui passear [Lugar] quando de repente encontrei um/uma [Substantivo] muito [Adjetivo].
+"Ontem eu fui passear por braga quando de repente encontrei um/uma [Substantivo] muito [Adjetivo].
 Ele/ela começou a [Verbo] de um jeito tão [Adjetivo] que ficou completamente [Cor]. Foi o dia mais maluco da minha vida!"
